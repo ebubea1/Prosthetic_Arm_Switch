@@ -1,0 +1,17 @@
+Added Component: Designator=U2(D36V50F5_)
+Add Pin To Net: Unknown Pin: Pin *-34
+Add Pin To Net: Unknown Pin: Pin *-35
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=7v4 Pin=U2-8
+Add Class Member: Failed to add class member : Component * 7v4 LiPo
+Add Class Member: Failed to add class member : Component S1 200MSP6T1B1M5RE
+Add Class Member: Failed to add class member : Component U1 Inventor 2350
+Added Member To Class: ClassName=Prosthetic_Arm_Switch Member=Component U2 D36V50F5

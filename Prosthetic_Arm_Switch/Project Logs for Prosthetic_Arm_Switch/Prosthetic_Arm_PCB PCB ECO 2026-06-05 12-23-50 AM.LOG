@@ -1,0 +1,12 @@
+Added Component: Designator=S1(SWITCH)
+Added Component: Designator=U1(Inventor_2350)
+Add Pin To Net: Unknown Pin: Pin *-34
+Add Pin To Net: Unknown Pin: Pin *-35
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VIN Pin=S1-1
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Net: Name=VIN
+Add Class Member: Failed to add class member : Component * 7v4 LiPo
+Added Member To Class: ClassName=Prosthetic_Arm_Switch Member=Component S1 200MSP6T1B1M5RE
+Added Member To Class: ClassName=Prosthetic_Arm_Switch Member=Component U1 Inventor 2350
