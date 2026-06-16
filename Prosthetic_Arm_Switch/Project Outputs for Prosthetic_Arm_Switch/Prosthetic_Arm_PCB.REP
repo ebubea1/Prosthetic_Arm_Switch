@@ -1,0 +1,165 @@
+*************************************************************
+FileName = Prosthetic_Arm_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Prosthetic_Arm_PCB_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Prosthetic_Arm_PCB_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Prosthetic_Arm_PCB_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Prosthetic_Arm_PCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Prosthetic_Arm_PCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Prosthetic_Arm_PCB_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Prosthetic_Arm_PCB_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Prosthetic_Arm_PCB_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Prosthetic_Arm_PCB_Profile.gbr
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Prosthetic_Arm_PCB_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Prosthetic_Arm_PCB_PTH_Drill.gbr
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
